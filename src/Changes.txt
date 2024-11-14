@@ -1,6 +1,0 @@
-- Mercenary can carry a full set of gear
-- Expanded stash storage and inventory
-- Removed charms except for Torch and Annihilus
-
-Credits
-- Expanded Storage 3.8 by Bonsey https://www.nexusmods.com/diablo2resurrected/mods/13

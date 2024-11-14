@@ -1,5 +1,5 @@
 {
-  "workspace": "",
+  "workspace": "./src",
   "legacy": false,
   "fallback": "",
   "logAppend": false,
