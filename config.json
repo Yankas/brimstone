@@ -61,9 +61,9 @@
       "action": "warn"
     }
   },
-  "generateDocs": false,
+  "generateDocs": true,
   "docOptions": {
-    "title": "My Mod Documentation",
+    "title": "Diablo II: Brimstone Edition Documentation",
     "language": "enUS",
     "filterPages": [],
     "localizedStrings": {
