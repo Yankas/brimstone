@@ -8,5 +8,6 @@ Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about St
 - All mercenaries can equip a full set of a gear.
 - Inventory and stash space have been expanded greatly
 - All charms except the *Hellfire Torch* and *Annihilius* have been removed.
+- Removed block chance from all monsters.
 
 ## Item Changes
